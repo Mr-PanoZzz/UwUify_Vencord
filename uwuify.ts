@@ -68,7 +68,7 @@ let MessageUtilsModule: any = null;
 export default definePlugin({
   name: "UwUify",
   description: "Turns all your messages way cuter!",
-  authors: [{ name: "Mr_PanoZzz", id: "939129546551210056" }],
+  authors: [{ name: "Mr_PanoZzz", id: "1230932285067366400" }],
   version: "1.0.0",
 
   start() {
